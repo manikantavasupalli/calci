@@ -1,2 +1,2 @@
 # calci
-dummy repo... now we are adding another dummy named shruthi
+dummy repo... now we are adding another rockstar named shruthi
